@@ -1,0 +1,11 @@
+start,arrival,route1,route2,total_lenght(km),speed_limit(km/h)
+client,home,50,2,108,100
+home,client,2,50,108,100
+home,client,50,0,108,100
+client,home,50,0,110,100
+home,office,2,0,55.4,100
+office,home,2,0,55.4,100
+home,client,2,15,137,100
+client,home,15,2,137,100
+home,client,2,325,110,100
+client,home,325,2,110,100
